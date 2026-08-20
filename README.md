@@ -36,24 +36,16 @@ You made an image by pure RNG.
 Why 200x200 max?
 because I said so.
 
-1x1 would work but...it's just a color.
+1x1 would work, but... it's just a color.
 wow :O
 
 ## How random is it?
 yes.
 
-
 ## File types
-This unnecessary batch script can do these file types
+This unnecessary batch script can do these any file type
 
-.txt
-.bat
-.html
-.py
-.js
-Custom extensions
-
-Because why not
+Because why not???
 
 ## Requirements
 Windows
@@ -71,6 +63,6 @@ something else
 another thing
 idk
 
-## Use responsibly
+Use responsibly.
 Or don't.
 I literally cannot stop you since this is text.
