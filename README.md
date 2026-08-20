@@ -22,7 +22,7 @@ This magnificent piece of technology can:
 
 ## Random Image Generator
 
-You enter an image size.
+You enter an image size,
 for example
 Width: 78
 Height: 92
@@ -43,7 +43,7 @@ wow :O
 yes.
 
 ## File types
-This unnecessary batch script can do these any file type
+This unnecessary batch script can do any file types.
 
 Because why not???
 
