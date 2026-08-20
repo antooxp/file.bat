@@ -57,11 +57,11 @@ Components
 # Warning
 
 This batch might do:
-random files (obviously)
-confusion
-something else
-another thing
-idk
+random files (obviously),
+confusion,
+something else,
+another thing,
+idk atp
 
 Use responsibly.
 Or don't.
